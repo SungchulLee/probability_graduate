@@ -1,6 +1,6 @@
 # Graduate Probability
 
-Notes for https://www.youtube.com/playlist?list=PLXziV1DL41ojxT-cilMZUblXHsqK6Bz1y
+Notes for [대학원 확률론 1 2021 가을](https://www.youtube.com/playlist?list=PLXziV1DL41ojxT-cilMZUblXHsqK6Bz1y)
 
 # Reference
 
